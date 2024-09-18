@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://shahmaran0207.github.io/" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/shahmaran0207/shahmaran0207/blob/main/portfolio.png" alt="Portfolio" style="cursor: pointer;" />
+        <img src="https://github.com/shahmaran0207/shahmaran0207/blob/main/port" alt="Portfolio" style="cursor: pointer;" />
     </a>
 </h1>
 
