@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahmaran0207.shahmaran0207" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+It's my Portfolio+!;" />
+    <a href="https://shahmaran0207.github.io/" target="_blank" style="text-decoration: none;">
+        <img src="https://github.com/shahmaran0207/shahmaran0207/blob/main/portfolio.png" alt="Portfolio" style="cursor: pointer;" />
+    </a>
 </h1>
+
 
 <h3 align="center">A passionate developer with diverse data analysis experience and a background in backend development from Korea 🇰🇷</h3>
 
