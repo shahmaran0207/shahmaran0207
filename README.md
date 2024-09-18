@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**shahmaran0207/shahmaran0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![79061fd4-7526-4517-a3d3-2eddcda7e61f](https://ogq-sticker-global-cdn-z01.afreecatv.com/sticker/16f23adaf342dde/main.png)<a>
 
-Here are some ideas to get you started:
+  
+  
+https://rlaeoqjq.tistory.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=square&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=square&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=square&logo=Raspberry Pi&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daebeobkim&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmaran0207)](https://github.com/anuraghazra/github-readme-stats)
