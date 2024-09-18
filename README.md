@@ -1,32 +1,78 @@
-# Hi there, I'm Shahmaran0207 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shahmaran0207.shahmaran0207" />
 
-![Header](https://github.com/shahmaran0207/shahmaran0207/blob/main/assets/header.png)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahmaran0207+!;" />
+</h1>
 
-### 👩‍💻 About Me:
-- 🌱 I’m currently learning ... (언급할 현재 학습 중인 기술이나 프로젝트)
-- 💬 Ask me about ... (당신이 잘 알고 있는 주제)
-- 📫 How to reach me: ... (연락처나 SNS 링크)
+<h3 align="center">A passionate software developer from Korea 🇰🇷</h3>
 
-### 🛠️ Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-### 📈 GitHub Stats:
-![Shahmaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahmaran0207&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmaran0207&layout=compact&theme=radical)
+<div align="center">
+ 
+ 🔭 I’m currently working on **a rhythm game project**
+ 
+ 🌱 I’m currently learning **Docker, AWS, SpringBoot, JPA**
 
-### 🏃 Contribution Graph:
-![GitHub Contributions](https://ghchart.rshah.org/shahmaran0207)
+💬 Ask me about **Java, SpringBoot [here](https://github.com/shahmaran0207)**
 
-### 🎵 My Rhythm Game Project:
-Check out my [Rhythm Game](https://github.com/shahmaran0207/rhythm-game) project! 🎧🎮
+⚡ Fun fact **I'm a developer with a love for rhythm games 🎵**
+ 
+</div>
 
-### 🚀 Current Projects:
-- [Project 1](https://github.com/shahmaran0207/project1)
-- [Project 2](https://github.com/shahmaran0207/project2)
+<div align="center">
+  <div style="display: inline-block;">
+    <div style="text-align: center; display: inline-block;">
+      <a href="mailto:shahmaran0207@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="display: block;" />
+      </a>
+    </div>
+    <div style="text-align: center; display: inline-block;">
+      <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="display: block;" />
+      </a>
+    </div>
+    <div style="text-align: center; display: inline-block;">
+      <a href="https://your-blog-link.com" target="_blank" style="text-decoration: none;">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory%20Blog" style="display: block;" />
+      </a>
+    </div>
+  </div>
+</div>
 
-### 🐱‍💻 Fun GitHub Stats Animation:
-![snake gif](https://github.com/shahmaran0207/shahmaran0207/blob/output/github-contribution-grid-snake.svg)
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,vscode,eclipse,idea,git,github,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=py,java,spring,maven,gradle,hibernate,postman,mysql,aws,docker" /><br>
+</div>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shahmaran0207/shahmaran0207/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=shahmaran0207&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shahmaran0207&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmaran0207&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+👋;" />
+</h3>
