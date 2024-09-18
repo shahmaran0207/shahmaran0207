@@ -45,8 +45,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py, java, spring, springboot, jsp, node.js" /><br>
+    <!-- Python, Java, Spring, Node.js -->
+    <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs" /><br>
+    <!-- Docker, AWS, IntelliJ (Eclipse 대체) -->
+    <img src="https://skillicons.dev/icons?i=docker,aws,intellij,eclipse" /><br>
+    <!-- HTML, CSS, JavaScript -->
+    <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+    <!-- GitHub, Git -->
+    <img src="https://skillicons.dev/icons?i=github,git" /><br>
 </div>
+
 <br/>
 <hr/>
 
