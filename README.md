@@ -32,10 +32,11 @@
 <div align="center">
     <!-- Python, Java, Spring, Node.js -->
     <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs" /><br>
-    <!-- Docker, AWS, IntelliJ (Eclipse 대체) -->
-    <img src="https://skillicons.dev/icons?i=docker,aws,intellij,eclipse" /><br>
-    <!-- HTML, CSS, JavaScript -->
-    <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
+<!-- Docker, AWS, IntelliJ -->
+<img src="https://skillicons.dev/icons?i=docker,aws,intellij" /><br>
+<!-- HTML, CSS, JavaScript, React -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react" /><br>
+
     <!-- GitHub, Git -->
     <img src="https://skillicons.dev/icons?i=github,git" /><br>
 </div>
