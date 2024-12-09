@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a WIT project**
+ 🔭 I’m currently working on **a Member_project**
  
  🌱 I’m currently learning **Docker, AWS, SpringBoot, JPA**
 
