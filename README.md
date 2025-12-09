@@ -8,23 +8,25 @@
 
 
 
-<h3 align="center">A passionate developer with diverse data analysis experience and a background in backend development from Korea 🇰🇷</h3>
+<h3 align="center">A passionate developer with diverse data analysis and GIS development experience, and a background in backend development from Korea 🇰🇷</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Master-The-Auction**
+ 🔭 I’m currently working on **Master-The-Auction**, focusing on spatial data visualization and location-based services
  
- 🌱 I’m currently learning **Docker, AWS, SpringBoot, JPA**
+ 🌱 I’m currently learning **Docker, AWS, SpringBoot, JPA, PostGIS, QGIS, Kakao Maps API**
 
-💬 Ask me about **Java, SpringBoot [here](https://github.com/shahmaran0207)**
+💬 Ask me about **Java, SpringBoot, GIS development, and spatial data analysis [here](https://github.com/shahmaran0207)**
 
-⚡ Fun fact **I'm a developer with a love for rhythm games 🎵**
+⚡ Fun fact: **I love rhythm games 🎵 and enjoy transforming real-world data into meaningful insights**
+
+💻 Key GIS project experience:  
+- **Concert Safety Project**: Developed a spatial system for managing safety within concert venues  
+- **City Situation Board**: Built a map-based real-time incident and event monitoring dashboard using actual city data
  
 </div>
-
-
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
